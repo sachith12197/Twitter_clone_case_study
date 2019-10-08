@@ -1,0 +1,18 @@
+.post-container {
+  background-color: white;
+  margin: 10px 10px 30px 30px;
+  border-style: solid;
+  border-color: black;
+  border-radius: 6px;
+  border-width: thin;
+  padding: 30px;
+  text-align: left;
+}
+.button-div {
+  background-color: white;
+  border: none;
+  color: black;
+  padding: 16px;
+  font-size: 20px;
+  cursor: pointer;
+}
